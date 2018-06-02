@@ -1,0 +1,10 @@
+{
+  "Test": "Hello world!",
+  "WELCOME_&NAME_&BOTNAME": "Hello, {0}. My name is {1}! How may i help you?",
+  "SECRET": "Thats a strange `secret` isn't it?!",
+  "INVITE": "Here you go! make sure they read the Rules ;D! ",
+  "GOD": ". . .and Hirg created Emei",
+  "LAG": "kept you waiting, huh?",
+  "BUG": "Two random bugs appeared, one regular bug fixed.",
+  "HELP": "Hello User! Here's the current commandlist! \n $choose  <-- By using $choose option|option1|option3... exactly in that way the bot will choose any of these options for you \n $ping <-- a simple pong response. \n $inv <-- an Invite link to the Age of Wulin Discord Server. \n $shh <-- to tell someone to shut up ;D \n $god <-- Simply Hirg. \n $lag <- Snake. u'll see \n $snek <-- a cute snek \n $de-bug <-- Devs life \n $emei <-- How emei looks like. \n $halp <-- This help Message."
+}
