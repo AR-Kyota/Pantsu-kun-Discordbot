@@ -6,7 +6,7 @@ Trying to keep it short, this bot was made for the Official/Unofficial Discord S
 Snail Games decided take back all the Characters from the EU Servers and transfered them to NA.
 
 The Old version of this Bot had more features but once the api updated nothing worked anymore so i had to sit down and rewrite mostly everything..
-Changes will happen rarely on this Bot for now, because i'm lacking of time but that doesn't mean anyone else can work on it.
+Changes will happen rarely on this Bot for now, because i'm lacking of time but that doesn't mean anyone else can't work on it.
 If you like to work on that bot and update it here feel free to do so! You can aswell use it for your own Server!
 
 The Age of Wulin Discord Server you'll find with this [link](https://discord.gg/6kDx8FM) 
