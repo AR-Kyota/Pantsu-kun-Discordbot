@@ -9,7 +9,7 @@ The Old version of this Bot had more features but once the api updated nothing w
 Changes will happen rarely on this Bot for now, because i'm lacking of time but that doesn't mean anyone else can work on it.
 If you like to work on that bot and update it here feel free to do so! You can aswell use it for your own Server!
 
-The Age of Wulin Discord Server you'll find with this [link] (https://discord.gg/6kDx8FM) 
+The Age of Wulin Discord Server you'll find with this [link](https://discord.gg/6kDx8FM) 
 I'm the Admin of the Age of Wulin server, so if you any questions -> feel free to pm me aswell.
 
 My Discord ID: **Kyota | Hiroki#5068**
