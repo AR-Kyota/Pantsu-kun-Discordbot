@@ -1,8 +1,10 @@
 # About the Bot
 
 Pantsu-kun is a simple C# bot in which i put lots of love in it.. _well atleast tried to without anyone else coming up with more stupid ideas_
+
 Trying to keep it short, this bot was made for the Official/Unofficial Discord Server of 'Age of Wulin' and since the EU Publisher isn't publishing it anymore,
 Snail Games decided take back all the Characters from the EU Servers and transfered them to NA.
+
 The Old version of this Bot had more features but once the api updated nothing worked anymore so i had to sit down and rewrite mostly everything..
 Changes will happen rarely on this Bot for now, because i'm lacking of time but that doesn't mean anyone else can work on it.
 If you like to work on that bot and update it here feel free to do so! You can aswell use it for your own Server!
